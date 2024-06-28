@@ -1,3 +1,22 @@
+# MongoDbProject
+
+## Projenin Amacı
+
+Bu proje bir sipariş yönetim panelidir. Satılan veya eklenen ürünler ürün tablosunda aynı miktarda düşer veya artar. Tüm CRUD işlemler admin panelinden yapılabilir.
+
+Projenin temel amacı MongoDb veri tabanının ve Google Cloud Storage kullanımını öğrenmeyi hedeflemektedir.
+
+ClosedXML ve iTextSharp kütüphaneleri kullanılarak ürünler ve siparişlerin excel ve pdf formatında indirilebilmesine imkan sunmaktadır.
+
+## Kullanılan Teknolojiler
+
+- Asp.Net Core 6.0
+- MongoDb
+- Google Cloud Storage
+- ClosedXML
+- iTextSharp
+- Mapper
+
 ![11](https://github.com/fthatmc/MongoDbProject/assets/136472585/dfc31899-bf4e-4f12-9cc6-aa4b28887e52)
 ![12](https://github.com/fthatmc/MongoDbProject/assets/136472585/806e42e1-6164-4588-850b-876efdb097b4)
 ![13](https://github.com/fthatmc/MongoDbProject/assets/136472585/cb2b05f7-b520-4558-981e-0e8603b7cbff)
